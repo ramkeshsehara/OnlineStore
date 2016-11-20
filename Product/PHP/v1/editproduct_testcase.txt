@@ -1,0 +1,53 @@
+[{
+	"api_key": "e94f9b99dcc2c0975a9475a76473fce1",
+	"name":"product1",
+	"updatedname": "product1",
+	"description": "product1 description",
+	"supplier_name": "iit jodhpur",
+	"error": false
+},
+{
+	"api_key": "e94f9b99dcc2c0975a9475a76473fce1",
+	"name":"product2",
+	"updatedname": "product2",
+	"description": "how are u ",
+	"supplier_name": "someone",
+	"error": false
+},
+{
+	"api_key": "e94f9b99dcc2c0975a9475a76473fce1",
+	"name": "product",
+	"updatedname": "ramk",
+	"description": "ram",
+	"supplier_name": "ram",
+	"error":true,
+	"message":"Product failed to update. Please try again!"
+},
+{
+    "api_key": "ef4c84a8f5fae1c96f029db2cc3fe87bpppppp",
+    "name": "abcdef",
+	"updatedname": "ram",
+	"description": "ram",
+	"supplier_name": "ram",
+	"error": true,
+	"message": "Unauthorized"
+},
+{
+	"api_key": "e94f9b99dcc2c0975a9475a76473fce1",
+	"name": "moon",
+	"updatedname": "ramkesh",
+	"description": "",
+	"supplier_name": "ram",
+	"error": true,
+	"message" :"Product failed to update. Please try again!"
+},
+{
+	"api_key": "e94f9b99dcc2c0975a9475a76473fce1",
+	"name": "soon",
+	"updatedname": "",
+	"description": "",
+	"supplier_name": "ram",
+	"error": true,
+	"message" :"Product failed to update. Please try again!"
+}
+]

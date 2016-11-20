@@ -1,0 +1,46 @@
+[{
+	"api_key": "e94f9b99dcc2c0975a9475a76473fce1",
+	"name": "product1",
+	"description": "description1",
+	"supplier_name": "supplier1",
+	"error": false
+},
+{
+	"api_key": "e94f9b99dcc2c0975a9475a76473fce1",
+	"name": "product2",
+	"description": "description2",
+	"supplier_name": "supplier2",
+	"error": false
+},
+{
+	"api_key": "e94f9b99dcc2c0975a9475a76473fce1",
+	"name": "product3",
+	"description": "description3",
+	"supplier_name": "supplier3",
+	"error": false
+},
+{
+    "api_key": "ef4c84a8f5fae1c96f029db2cc3fe87bppppppll",
+	"name": "wingify",
+	"description": "ram",
+	"supplier_name": "ram",
+	"error": true,
+	"message": "Unauthorized"
+},
+{
+	"api_key": "e94f9b99dcc2c0975a9475a76473fce1",
+	"name": "ramkesh",
+	"description": "",
+	"supplier_name": "ram",
+	"error": true,
+	"message": "Missing product field"
+},
+{
+	"api_key": "e94f9b99dcc2c0975a9475a76473fce1",
+	"name": "",
+	"description": "",
+	"supplier_name": "ram",
+	"error": true,
+	"message": "Missing product field"
+}
+]

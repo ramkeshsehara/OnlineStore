@@ -1,0 +1,35 @@
+[{
+	"api_key": "e94f9b99dcc2c0975a9475a76473fce1",
+	"name": "product1",
+	"error": false
+},
+{
+	"api_key": "e94f9b99dcc2c0975a9475a76473fce1",
+	"name": "product3",
+	"error": false
+},
+{
+	"api_key": "e94f9b99dcc2c0975a9475a76473fce1",
+	"name": "wingifyllll",
+	"error": false,
+	"message": "Product failed to delete. Please try again!"
+},
+
+{
+	"api_key": "ef4c84a8f5fae1c96f029db2cc3fe87",
+	"name": "wingify",
+	"error": true,
+	"message": "Unauthorized"
+},
+{
+	"api_key": "e94f9b99dcc2c0975a9475a76473fce1",
+	"name": "product2",
+	"error": false
+},
+{
+	"api_key": "ef4c84a8f5fae1c96f029db2cc3fe87bpppp",
+	"name": "wingify",
+	"error": true,
+	"message": "Unauthorized"
+}
+]

@@ -1,0 +1,35 @@
+[{
+	"email": "pass1@gmail.com",
+	"password": "pass1",
+	"error": false
+},
+{
+	"email": "pass1@gmail.com",
+	"password": "incorrect",
+	"error": true,
+	"message": "Login failed. Incorrect credentials"
+},
+{
+	"email": "pass1gmailcom",
+	"password": "incorrect",
+	"error": true,
+	"message": "Invalid Email"
+},
+{
+	"email": "  ",
+	"password": "pppppp",
+	"error": true,
+	"message": "Invalid Email"
+},
+{
+	"email": "  ",
+	"password": "  ",
+	"error": true,
+	"message": "Invalid Email"
+},
+{
+	"email": "pass1@gmail.com",
+	"password": "pass1",
+	"error": false
+}
+]
