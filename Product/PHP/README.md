@@ -12,7 +12,7 @@ Design a RESTful API for an online store which can be used to manage different p
 
 ## Run
 
-1. run setup.php enter username, password, database name ,Host url for database connection.  
+1. run setup.php enter username, password, database name ,Host url for database connection.After form submission refresh your url so database get updated.  
 
 # Run test Case 
 
